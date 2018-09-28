@@ -8,8 +8,37 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* Begin site styles below */
 
+html {
+  font-size: 18px;
+  padding: 1.222em 1em;
 
+}
 
-h1 {
+p {
+  padding-bottom: 1.222em;
+}
+h1,h2,h3,h4,h5 {
   color: red;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 40.5px;
+  line-height: 44px;
+}
+
+h3 {
+  font-size: 27px;
+  line-height: 33px;
+  padding-bottom: 11px;
+}
+
+ul {
+    color: blue;
+  padding: 0 0 0 1.222em;
+  list-style-type: square;
+}
+
+li {
+  padding-bottom: 1.222em;
 }
