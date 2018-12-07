@@ -77,6 +77,12 @@ li {
   border: 0.125em solid black; /* 2px / 16px */
 }
 
+.pictures {
+  background: #468;
+  overflow: auto;
+  padding: 0.3125em; /* 5px / 16px */
+}
+
 @media screen and (min-width: 630px) {
   html{
     padding: 5%;
