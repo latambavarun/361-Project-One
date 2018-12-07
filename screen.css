@@ -8,6 +8,8 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* Begin site styles below */
 
+
+/*Basic styling components for structure */
 html {
   background-color: hsla(360, 85%, 68%, 0.5);
   font-size: 1.3em;
@@ -105,11 +107,10 @@ li {
   html{
     padding: 5%;
     font-size: 1.234em;
-
   }
 
-img {
-  max-width: 100%;
-  display: block;
+  img {
+    max-width: 100%;
+    display: block;
  }
 }
